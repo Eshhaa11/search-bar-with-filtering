@@ -16,5 +16,6 @@ function Search () {
         'Dreamdust Purple',
         'Black',
         'Red',
+        'Pink',
     ]
 }
