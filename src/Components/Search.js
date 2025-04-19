@@ -36,6 +36,7 @@ function Search () {
         <div className="search-cont">
            <input
             type="text"
+            placeholder="Search colors or fruits"
            /> 
         </div>
     )
