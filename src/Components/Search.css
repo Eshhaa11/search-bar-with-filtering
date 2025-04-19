@@ -4,11 +4,10 @@ body {
 
 .search-cont {
     max-width: 400px;
-    padding: 24px;
+    padding: 20px;
     margin: 80px auto;
     background: #FFF0DB;
     border-radius: 18px;
     text-align: center;
-
-    
+    font-family: 'Segoe UI';
 }
