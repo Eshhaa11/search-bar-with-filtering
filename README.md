@@ -30,7 +30,7 @@ To see it in action, clone the repository and follow the setup instructions belo
    
 2. **Navigate to the project directory:**
 
-   cd  react-stopwatch
+   cd  search-bar-filter
 
 3. **Install dependencies:**
 
