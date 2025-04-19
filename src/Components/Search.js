@@ -23,7 +23,7 @@ function Search () {
         'Strawberry',
         'Red',
         'Pink',
-        'O'
+        'Watermelon',
         'Tangerine',
         'Forest Ash Green',
     ]
