@@ -47,7 +47,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 ---
 
  ## 🎨 Screenshots:
-![Preview](./src/assets/demo.gif.gif)
+ ![App Screenshot](src/assets/image.png)
 
  ---
 
