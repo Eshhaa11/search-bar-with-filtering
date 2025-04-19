@@ -38,7 +38,9 @@ function Search () {
             type="text"
             placeholder="Search colors or fruits"
             value={filter}
-            onChange={(e)} => setFilter(e.target.value)}
+            onChange={(e) => setFilter(e.target.value)}
+            className="search-input"
+    
            /> 
         </div>
     )
