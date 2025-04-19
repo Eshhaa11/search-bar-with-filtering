@@ -12,6 +12,7 @@ function Search () {
         'Celestial Lavender',
         'Orange',
         'Shadow Mint',
+        'Cyan',
         'Dreamdust Purple',
     ]
 }
