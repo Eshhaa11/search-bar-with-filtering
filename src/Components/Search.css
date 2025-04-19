@@ -28,4 +28,5 @@ body {
 .result-li {
     list-style: none;
     text-align: left;
+    padding: 0;
 }
