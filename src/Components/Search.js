@@ -48,7 +48,7 @@ function Search () {
                 <li key={index} className="result-item">{item}</li>
             ))
           ) : (
-            <li className="no-results">No color or fruit like that found now</li>
+            <li className="no-results">No color or fruit like that available now.</li>
           )}
         </ul>
            
