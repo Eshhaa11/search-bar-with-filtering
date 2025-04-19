@@ -35,5 +35,5 @@ body {
 .result-item {
     margin-bottom: 8px;
     padding: 10px 14px;
-    
+    cursor: pointer;
 }
