@@ -17,5 +17,6 @@ function Search () {
         'Black',
         'Red',
         'Pink',
+        'Orange',
     ]
 }
