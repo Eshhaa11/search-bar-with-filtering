@@ -6,6 +6,7 @@ function Search () {
 
     const items = [
         'Moonshade Indigo',
+        'Mango',
         'Blue',
         'Starlight Silver',
         'Brown',
@@ -18,5 +19,6 @@ function Search () {
         'Red',
         'Pink',
         'Orange',
+        'Forest Ash Green',
     ]
 }
