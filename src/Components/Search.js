@@ -8,6 +8,7 @@ function Search () {
         'Moonshade Indigo',
         'Mango',
         'Blue',
+        'Cherry',
         'Starlight Silver',
         'Brown',
         'Celestial Lavender',
