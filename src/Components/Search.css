@@ -22,5 +22,5 @@ body {
 }
 
 .search-input:focus {
-    
+    border-color: #FA8072;
 }
