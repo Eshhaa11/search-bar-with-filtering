@@ -40,8 +40,11 @@ function Search () {
             value={filter}
             onChange={(e) => setFilter(e.target.value)}
             className="search-input"
-    
            /> 
+
+           <ul className="result-li">
+            
+           </ul>
         </div>
     )
 }
