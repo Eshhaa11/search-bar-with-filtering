@@ -43,7 +43,7 @@ body {
 
 
 .result-item:hover {
-
+    background-color: #e0dcf8;
 }
 
 .no-results {
