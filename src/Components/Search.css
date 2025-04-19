@@ -11,3 +11,7 @@ body {
     text-align: center;
     font-family: 'Segoe UI';
 }
+
+.search-input {
+    padding: 10px 14px;
+}
