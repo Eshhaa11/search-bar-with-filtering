@@ -13,6 +13,7 @@ function Search () {
         'Avocado',
         'Brown',
         'Celestial Lavender',
+        'Apple',
         'Orange',
         'Shadow Mint',
         'Cyan',
