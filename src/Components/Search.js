@@ -20,6 +20,7 @@ function Search () {
         'Cyan',
         'Dreamdust Purple',
         'Black',
+        'Strawberry',
         'Red',
         'Pink',
         'Orange',
