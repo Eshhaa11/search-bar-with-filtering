@@ -51,7 +51,8 @@ function Search () {
             <li className="no-results">No color or fruit like that available now.</li>
           )}
         </ul>
-           
         </div>
-    )
-}
+    );
+};
+
+export default Search;
