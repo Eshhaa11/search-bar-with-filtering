@@ -43,6 +43,7 @@ function Search () {
            /> 
 
            <ul className="result-li">
+           {filteredItems.length > 0 ? (
             
            </ul>
         </div>
