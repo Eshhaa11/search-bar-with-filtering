@@ -10,6 +10,7 @@ function Search () {
         'Blue',
         'Cherry',
         'Starlight Silver',
+        'Avocado',
         'Brown',
         'Celestial Lavender',
         'Orange',
