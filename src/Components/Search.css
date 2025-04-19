@@ -41,6 +41,11 @@ body {
     color: white;
 }
 
+
+.result-item:hover {
+
+}
+
 .no-results {
     padding: 12px;
     text-align: center;
