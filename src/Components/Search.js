@@ -37,6 +37,7 @@ function Search () {
            <input
             type="text"
             placeholder="Search colors or fruits"
+            value={filter}
            /> 
         </div>
     )
