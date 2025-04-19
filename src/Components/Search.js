@@ -44,8 +44,14 @@ function Search () {
 
            <ul className="result-li">
            {filteredItems.length > 0 ? (
-            
-           </ul>
+             filteredItems.map((item, index) => (
+                <li key={index} className="result-item">{item}</li>
+            ))
+          ) : (
+            <li className="no-results">No color or fruit like that found now</li>
+          )}
+        </ul>
+           
         </div>
     )
 }
