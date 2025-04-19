@@ -34,7 +34,9 @@ function Search () {
 
     return (
         <div className="search-cont">
-            
+           <input
+           
+           /> 
         </div>
     )
 }
