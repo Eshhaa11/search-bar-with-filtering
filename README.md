@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/search.jpg)
+
 # 🔎 Search Bar Filter (React)
 
 A sleek and responsive **React** search bar component that filters a dynamic list of items as you type — real-time, smooth, and beginner-friendly.
